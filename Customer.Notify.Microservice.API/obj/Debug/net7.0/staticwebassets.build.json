@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yu7FGpeEc0zZGB3YjU7qXk9x8+a/rGBUt11mIG6oSmg=",
+  "Source": "Customer.Notify.Microservice.API",
+  "BasePath": "_content/Customer.Notify.Microservice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
